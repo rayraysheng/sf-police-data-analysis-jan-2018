@@ -24,6 +24,7 @@ Look at police incidents data from the San Francisco Police Department and deter
 * SF Registered Business Locations: https://data.sfgov.org/Economy-and-Community/Registered-Business-Locations-San-Francisco/g8m3-pdis
 * SF Schools: https://data.sfgov.org/Economy-and-Community/Schools/tpp3-epx2
 * Assessor Historical Secured Property Tax Rolls: https://data.sfgov.org/Housing-and-Buildings/Assessor-Historical-Secured-Property-Tax-Rolls/wv5m-vpq2
+* US Census Data: https://www.census.gov/topics/income-poverty/poverty/guidance/data-sources/acs-vs-cps.html
 * Possibly other additional data sets
 
 ### Rough Breakdown of Tasks
@@ -32,3 +33,24 @@ Look at police incidents data from the San Francisco Police Department and deter
 * Analyze and visualize for each related question
 * Document results
 * Prepare presentation
+
+ ### Questions:
+ 
+ * Is there a correlation between police incident resolution rate and the poverty level of the area in which the incidents occur - Ray
+ 
+ * Is there a correlation between police incident occurrence and the day of the week and/or time of day? - Abdullah
+ 
+ * Are there particular types of police incidents that have increased or decreased in frequency at the city level? - Beatriz
+
+ * How does police incident mix in each police district compare to the city level data? - Alex
+ 
+ 
+ 
+ * Is there a correlation between location and type of police incident? (Hint: using google places API to covert a coordinate to a place of business)
+
+### Deliverables
+
+* Text of question
+* Come up with split-off questions from the main question
+* Can we answer the question? How?
+* Visualization ideas
