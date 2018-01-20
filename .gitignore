@@ -102,3 +102,6 @@ ENV/
 
 # geonames api username
 .geonames_username
+
+# census key
+.census_api_key
